@@ -1,0 +1,10 @@
+{
+  "name": "beeclever/telephony-api-php-client",
+  "description": "Beeclever telephony API PHP client",
+  "version": "1.0.0",
+  "autoload": {
+    "psr-4": {
+      "Beeclever\\Telephony\\": "src"
+    }
+  }
+}
